@@ -1,0 +1,124 @@
+.LR-box-wrapper {
+	width: 300px;
+	margin: 10px auto 0;
+}
+
+input[type="text"].LR-sign-up-input, input[type="email"].LR-sign-up-input, input[type="tel"].LR-sign-up-input {
+	width:175px;
+}
+
+.LR-extra-fields input[type="email"].LR-sign-up-input,.LR-extra-fields input[type="text"].LR-sign-up-input,.LR-extra-fields input[type="tel"].LR-sign-up-input{
+	width: 223px;
+}
+
+input.LR-share-email-emails[type="email"] {
+	width: 72%;
+}
+
+.LR-extra-fields input[type="text"].LR-sign-up-input.half,.LR-extra-fields input[type="tel"].LR-sign-up-input.half {
+	width: 93px;
+}
+
+.LR-site-share-email input[type="email"], .LR-site-share-email textarea, input[type="text"].LR-share-link {
+	width: 172px;
+}
+
+.LR-site-share-email input[type="text"] {
+	width:223px;
+}
+
+.LR-site-share-email textarea {
+	width: 223px;
+}
+
+input.LR-share-link {
+	width: 60%;
+}
+
+.LR-pwd-lr {
+	position: relative;
+	background:transparent;
+	clear: both;
+	width: 300px;
+	padding: 0;
+	margin: 10px auto;
+	height: 36px;
+}
+
+.LR-pwd-lr a {
+	display: block;
+	float: right;
+	-webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+
+.LR-site-connect .LR-share-label {
+	display:none;
+}
+
+.LR-site-logo {
+	width:90%;
+	margin:0 auto;
+}
+
+.LR-site-logo img {
+	max-width:100%;
+}
+
+.LR-sign-up-label {
+	font-size:10px;
+}
+
+.LR-site-connect ul {
+	width: 290px;
+	margin:0 auto;
+}
+
+.LR-extra-fields input[type="submit"].LR-sign-up-submit {
+	width:251px;
+}
+
+.LR-site-share-email {
+	width:250px;
+}
+
+.LR-share-email-import {
+	top: 45px;
+	right: 9px;
+}
+
+.LR-stats-clicks, .LR-stats-signups{
+	font-size:20px;
+}
+
+.LR-lxWrapper {
+	display:none !important;
+}
+
+
+.LR-incentivesContainer {
+    text-align: left;
+}
+
+.LR-incentiveTier {
+    display: block;
+
+    width: 70%;
+    margin: 0 auto 10px;
+}
+
+.LR-incentiveCount {
+    margin: 0;
+
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.LR-incentiveMssg {
+    width: 130px;
+	
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 0 0 10px;
+}
